@@ -1,0 +1,29 @@
+{
+  "canvas": [
+    {
+      "title": "Oh hey.",
+      "description": "Are ya bored?",
+      "image": "img/image1-01.png"
+    },
+    {
+      "title": "I don't know if I can help ya.",
+      "description": "But you can scroll through these revolutionary typography facts.",
+      "image": "img/image2-01.png"
+    },
+    {
+      "title": "They're so riviting.",
+      "description": "Dope, if you will.",
+      "image": "img/image3-01.png"
+    },
+    {
+      "title": "Whoever came up with them is a genius.",
+      "description": "Don't you agree?",
+      "image": "img/image4-01.png"
+    },
+    {
+      "title": "Clearly.",
+      "description": "Such type. Very wow.",
+      "image": "img/image5-01.png"
+    }
+  ]
+}
